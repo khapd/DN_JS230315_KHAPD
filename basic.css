@@ -1,0 +1,56 @@
+body {
+
+    border: 1px solid white;
+    margin: 25%;
+    width: 800px;
+
+}
+
+.tieude {
+    border: 1px solid yellow;
+    background-color: yellow;
+    opacity: 0.5;
+    width: 400px;
+    height: 100px;
+    position: relative;
+    bottom: 130px;
+}
+
+
+
+.img2 {
+    border: 1px solid yellow;
+    border-width: 6px 0px 0 0;
+    position: relative;
+
+    width: 330px;
+    left: 35px;
+    bottom: 70px;
+
+}
+
+.img3 {
+    position: relative;
+    border: 1px solid yellow;
+    border-width: 6px 0 0 0;
+    width: 330px;
+    bottom: 420px;
+    left: 400px;
+}
+
+.img4 {
+    position: relative;
+    border: 1px solid yellow;
+    border-width: 6px 0 0 0;
+    left: 35px;
+    bottom: 400px;
+}
+
+.img5 {
+    position: absolute;
+    border: 1px solid yellow;
+    border-width: 6px 0 0 0;
+    width: 330;
+    right: 410px;
+    top: 1160px;
+}
