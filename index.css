@@ -1,0 +1,166 @@
+body {
+    border-style: 1px solid white;
+}
+
+header {
+    border-style: 1px solid;
+    background-color: black;
+    color: aliceblue;
+}
+
+header>i {
+    padding: 2px;
+}
+
+.content {
+    display: flex;
+}
+
+
+.main {
+    border-style: 1px solid white;
+    background-color: rgb(230, 223, 214);
+    width: 90%;
+    position: relative;
+    margin: 0 5%;
+    float: left;
+}
+
+.content-left {
+    border-style: 1px solid white;
+    position: relative;
+    width: 60%;
+    margin-left: 1%;
+    margin-right: 7%;
+
+
+}
+
+.tieude {
+    position: relative;
+    margin-left: 45%;
+}
+
+.tieude>p {
+    font-size: 16px;
+    margin-left: 2%;
+}
+
+.img2 {
+    border-style: 1px solid white;
+    background-color: aliceblue;
+    width: 100%;
+    padding: 2%;
+}
+
+
+
+.tieude2 {
+    position: relative;
+
+    margin-left: 35%;
+
+}
+
+.tieude2>h2 {
+    margin-left: 3%;
+
+}
+
+.tieude2>p {
+    font-size: 20px;
+}
+
+.img3 {
+    border-style: 1px solid white;
+    width: 100%;
+    background-color: aliceblue;
+    padding: 2%;
+}
+
+.img4 {
+    border-style: 1px solid white;
+    width: 100%;
+    background-color: aliceblue;
+    padding: 2%;
+}
+
+
+.content-right {
+    border-style: 1px solid white;
+    position: relative;
+    width: 30%;
+
+
+}
+
+.tieude3 {
+    position: relative;
+
+    margin-left: 35%;
+
+}
+
+.tieude3>h2 {
+    margin-left: 3%;
+}
+
+.tieude3>p {
+    font-size: 20px;
+}
+
+.tieude4 {
+    position: relative;
+
+    margin-left: 35%;
+
+}
+
+.tieude4>h2 {
+    margin-left: 3%;
+}
+
+.tieude4>p {
+    font-size: 20px;
+}
+
+.noidungimg4 {
+    position: relative;
+    ;
+    background-color: black;
+
+    color: aliceblue;
+}
+
+.img6 {
+    display: flex;
+}
+
+.img6>h2 {
+    border-style: 1px solid;
+    background-color: black;
+    width: 100%;
+    color: aliceblue;
+}
+
+.img7>h2 {
+    border-style: 1px solid;
+    background-color: black;
+    width: 100%;
+    color: aliceblue;
+}
+
+.img7>p {
+    border-style: 1px solid;
+    background-color: bisque;
+    width: 95%;
+    height: 300px;
+
+}
+
+.img8>h2 {
+    border-style: 1px solid;
+    background-color: black;
+    width: 100%;
+    color: aliceblue;
+}
